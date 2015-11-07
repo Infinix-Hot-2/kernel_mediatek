@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b69d1e72_70c02950",
+        "filename": "drivers/misc/mediatek/gpu/ged/Makefile",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1064128
+      },
+      "writtenOn": "2015-11-07T00:17:18Z",
+      "side": 1,
+      "message": "Would be nice to get rid of this whitespace too",
+      "revId": "4fca889dabd66821ee286ccd041e33c2f5813b41",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
